@@ -1,2 +1,2 @@
 # Yushink.github.io
-my personal weeb page for itsc 2055
+my personal web page for itsc 2055
